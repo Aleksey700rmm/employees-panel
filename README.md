@@ -5,15 +5,18 @@ Functionality for adding and removing employees is also implemented
 
 ## How to run the app
 
-If you want to run the app you need to clone the repository:
+If you want to run the app you need to install the packages:
 
-### `git clone git@github.com:Aleksey700rmm/employees-panel.git`
+```
+npm install
+```
 
-Then you have to install the packages:
+Then run the project:
 
-### `npm i`
+```
+npm start
+```
 
-Then run the project: 
-
-### `npm start`
-
+<div align="center">
+  <br /><br /><img src="https://i.ibb.co/NFpFbH7/employees-Screen.png" alt="Screen"/> <br /><br />
+</div>
